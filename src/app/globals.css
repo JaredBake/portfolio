@@ -12,8 +12,8 @@ body {
 }
 
 body {
-  background: rgb(2 6 23);
-  color: rgb(241 245 249);
+  background: rgb(255, 255, 255);
+  color: rgb(0, 52, 163);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

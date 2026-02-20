@@ -1,0 +1,75 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "role": "Software Developer",
+    "headline": "Building clean, reliable software.",
+    "summary": "I build user-friendly apps and backend systems with a focus on performance, clarity, and maintainability.",
+    "about": "Write a short bio here. Mention your focus (web, data, mobile, etc.), what you’re learning, and the kind of roles you want.",
+    "location": "Your City, State",
+    "email": "you@example.com",
+    "contactBlurb": "Open to internships, junior roles, and freelance projects.",
+    "highlights": [
+      "X+ projects shipped",
+      "Y years experience (or coursework)",
+      "Strong in: frontend, APIs, databases"
+    ],
+    "links": [
+      { "label": "GitHub", "href": "https://github.com/your-username" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/your-handle" },
+      { "label": "Email", "href": "mailto:you@example.com" }
+    ]
+  },
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "Python",
+    "Git"
+  ],
+  "experience": [
+    {
+      "title": "Role Title",
+      "company": "Company / Organization",
+      "location": "Remote",
+      "start": "2025",
+      "end": "Present",
+      "summary": "Describe your impact in one sentence: what you built, improved, or delivered (with an outcome if possible)."
+    },
+    {
+      "title": "Role Title",
+      "company": "Company / Organization",
+      "location": "City",
+      "start": "2024",
+      "end": "2025",
+      "summary": "Add a second bullet-worthy summary for a prior role, internship, or leadership position."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "year": "2026",
+      "description": "A short description of what the project does and why it’s interesting.",
+      "tags": ["Tech", "API", "UI"],
+      "links": [
+        { "label": "Repo", "href": "https://github.com/your-username/project" },
+        { "label": "Live", "href": "https://example.com" }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "year": "2025",
+      "description": "Another project — keep it to 1-2 lines.",
+      "tags": ["TypeScript", "Web"],
+      "links": [{ "label": "Repo", "href": "https://github.com/your-username/project-2" }]
+    },
+    {
+      "name": "Project Name",
+      "year": "2024",
+      "description": "Add a third project to fill out the grid.",
+      "tags": ["Python", "Data"],
+      "links": [{ "label": "Write-up", "href": "https://example.com" }]
+    }
+  ]
+}
